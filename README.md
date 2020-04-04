@@ -1,5 +1,5 @@
 # Project title: Number Guessing Game
 
-Sat Apr  4 10:38:08 DST 2020
+Sat Apr  4 11:30:30 DST 2020
 
-Number of lines in guessinggame.sh is 50.
+Number of lines in guessinggame.sh is 49.

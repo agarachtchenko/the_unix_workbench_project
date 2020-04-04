@@ -31,8 +31,7 @@ do
 		fi
 		echo "I need a number. Try again:"
 	done
-	compare $guess $nfiles
-	result=$?
+	compare $guess $nfiles; result=$?;
 	if [ $result -eq 0 ]
 	then
 		break
